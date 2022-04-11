@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import optparse
 import os
 # from . import enumerate-ports
